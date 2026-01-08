@@ -10,6 +10,7 @@
    - [Maxi Toys](https://www.youtube.com/@MaxiToysOfficial)
    - [TFB2K](https://www.youtube.com/@tfb2k-yt)
 
-- My other links
+- My other social media accounts:
   - [Reddit](https://www.reddit.com/user/Kimiberryx64)
   - [Archive](https://archive.org/details/@kimiberry)
+  - [Old Github](https://github.com/Kimiberry64)
