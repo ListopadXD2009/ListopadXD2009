@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, Python, Visual Basic .NET, Batchfile and VBS.
 
 - I barely even do GDI Malwares and Malwares anymore, so here are some resources
-   - [Visual Studio IDE]((https://aka.ms/vs/16/release/vs_community.exe))
+   - [Visual Studio IDE](https://aka.ms/vs/16/release/vs_community.exe)
    - [You should modify these](https://github.com/Kimiberry64?tab=repositories)
 
 - Support my friends on YouTube!
